@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/scott/OneDrive/Documents/Projects/SpaceInvaders/Content/bullet.png","C:/Users/scott/OneDrive/Documents/Projects/SpaceInvaders/Content/bin/DesktopGL/bullet.xnb","TextureProcessor","Texture2DContent",673,4181,0.0867846
+"C:/Users/scott/OneDrive/Documents/Projects/SpaceInvaders/Content/enemy.png","C:/Users/scott/OneDrive/Documents/Projects/SpaceInvaders/Content/bin/DesktopGL/enemy.xnb","TextureProcessor","Texture2DContent",398,4181,0.0021946
+"C:/Users/scott/OneDrive/Documents/Projects/SpaceInvaders/Content/ship.png","C:/Users/scott/OneDrive/Documents/Projects/SpaceInvaders/Content/bin/DesktopGL/ship.xnb","TextureProcessor","Texture2DContent",627,4181,0.0018018
