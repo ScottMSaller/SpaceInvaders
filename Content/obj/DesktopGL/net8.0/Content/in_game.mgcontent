@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/scott/OneDrive/Documents/Projects/SpaceInvaders/Content/in_game.mp3</SourceFile>
+  <SourceTime>2025-08-08T10:45:03.3633576-04:00</SourceTime>
+  <DestFile>C:/Users/scott/OneDrive/Documents/Projects/SpaceInvaders/Content/bin/DesktopGL/Content/in_game.xnb</DestFile>
+  <DestTime>2025-08-08T10:52:28.0923837-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2025-06-02T06:31:02-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2025-06-02T06:31:02-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/scott/OneDrive/Documents/Projects/SpaceInvaders/Content/bin/DesktopGL/Content/in_game.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

@@ -32,3 +32,11 @@ C:\Users\scott\OneDrive\Documents\Projects\SpaceInvaders\obj\Debug\net8.0\ref\Sp
 C:\Users\scott\OneDrive\Documents\Projects\SpaceInvaders\bin\Debug\net8.0\Content\ship.xnb
 C:\Users\scott\OneDrive\Documents\Projects\SpaceInvaders\bin\Debug\net8.0\Content\bullet.xnb
 C:\Users\scott\OneDrive\Documents\Projects\SpaceInvaders\bin\Debug\net8.0\Content\enemy.xnb
+C:\Users\scott\OneDrive\Documents\Projects\SpaceInvaders\obj\Debug\net8.0\SpaceInvaders.sourcelink.json
+C:\Users\scott\OneDrive\Documents\Projects\SpaceInvaders\bin\Debug\net8.0\Content\DefaultFont.xnb
+C:\Users\scott\OneDrive\Documents\Projects\SpaceInvaders\bin\Debug\net8.0\Content\shooting.xnb
+C:\Users\scott\OneDrive\Documents\Projects\SpaceInvaders\bin\Debug\net8.0\Content\explosion.xnb
+C:\Users\scott\OneDrive\Documents\Projects\SpaceInvaders\bin\Debug\net8.0\Content\in_game.ogg
+C:\Users\scott\OneDrive\Documents\Projects\SpaceInvaders\bin\Debug\net8.0\Content\in_game.xnb
+C:\Users\scott\OneDrive\Documents\Projects\SpaceInvaders\bin\Debug\net8.0\Content\menu_theme.ogg
+C:\Users\scott\OneDrive\Documents\Projects\SpaceInvaders\bin\Debug\net8.0\Content\menu_theme.xnb
